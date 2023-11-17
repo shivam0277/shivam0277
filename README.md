@@ -37,8 +37,7 @@
 
 ### :fire: My Stats :
 <p align="center">
-<!--   <img src="http://github-readme-streak-stats.herokuapp.com?user=shivam0277&theme=dark&background=000000)](https://git.io/streak-stats)"> -->
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shivam0277&theme=transparent" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shivam0277&theme=github-dark-blue" alt="GitHub Streak" /></a>
 </p> 
 
 
