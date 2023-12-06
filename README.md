@@ -15,13 +15,13 @@
 <p align="center">
   <h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </p>
-<p>### :man_technologist: About Me :</p>
+<p> About Me :</p>
 <p>🔭 What I'm currently working on</p>
 <p>- Contributing to open-source projects and Learning more about machine learning and artificial intelligence</p>
 
 <p>🌱 In my free time</p>
 <p>- I solve problems on GeeksforGeeks and read tech articles.</p>
-  ### :hammer_and_wrench: Languages and Tools :
+   Languages and Tools :
 </div>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C" width="40" height="40" />
@@ -35,7 +35,7 @@
 </p>
 ---
 
-### :fire: My Stats :
+### My Stats :
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shivam0277&theme=github-dark-blue" alt="GitHub Streak" /></a>
 </p> 
