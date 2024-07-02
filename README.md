@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="300"/>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
+</div>
 
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
@@ -17,10 +18,10 @@
 </p>
 <p> About Me :</p>
 <p>🔭 What I'm currently working on</p>
-<p>- Contributing to open-source projects and Learning more about machine learning and artificial intelligence</p>
+<p>- Projects that include React for frontend and Spring for Backend</p>
 
-<p>🌱 In my free time</p>
-<p>- I solve problems on GeeksforGeeks and read tech articles.</p>
+<p>🖥️ In my other time</p>
+<p>- I solve problems on leetcode and GeeksforGeeks.</p>
    Languages and Tools :
 </div>
 <p align="center">
