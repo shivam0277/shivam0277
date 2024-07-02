@@ -24,14 +24,18 @@
    Languages and Tools :
 </div>
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" title="C" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" title="C++" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/dart.png" alt="Dart" title="Dart" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/golang.png" alt="Go" title="Go" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" title="Spring" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/hibernate.png" alt="Hibernate" title="Hibernate" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" title="TensorFlow" width="40" height="40" />
+
 </p>
 ---
 
