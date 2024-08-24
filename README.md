@@ -18,7 +18,7 @@
 </p>
 <p> About Me :</p>
 <p>🔭 What I'm currently working on</p>
-<p>- Projects that include React for frontend and Spring for Backend</p>
+<p>- Multiple Web development and Artificial Intelligence Projects.</p>
 
 <p>🖥️ In my other time</p>
 <p>- I solve problems on leetcode and GeeksforGeeks.</p>
