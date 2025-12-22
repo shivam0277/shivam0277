@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="420" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450" />
 </div>
 
 <div id="badges" align="center">
@@ -15,13 +15,15 @@
 </p>
 <p align="center">
   <h1>Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-</p>
-<p> About Me :</p>
-<p>🔭 What I'm currently working on</p>
-<p>- Multiple Web development and Artificial Intelligence Projects.</p>
+</p
+  
+### About Me :
+<p>Data science and analytics projects involving Python, SQL & visualization.</p>
+<p>Machine learning models and end-to-end AI applications.</p>
 
-<p>🖥️ In my other time</p>
-<p>- I solve problems on leetcode and GeeksforGeeks.</p>
+<p>In my other time</p>
+<p>Solving DSA & SQL problems on LeetCode and GeeksforGeeks</p>
+<p>Exploring new tools in data analytics and cloud computing</p>
    
 ### Languages and Tools :
 </div>
