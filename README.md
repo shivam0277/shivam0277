@@ -11,9 +11,9 @@
   </a>
 </div>
 
-<h1 align="center">
+<h2 align="center">
   Hey there 👋
-</h1>
+</h2>
 
 ## 👨‍💻 About Me
 - Working on **data science and analytics projects** using Python, SQL & data visualization  
@@ -41,6 +41,7 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shivam0277&theme=nightowl"/>
 </p>
+
 
 
 
