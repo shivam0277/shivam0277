@@ -42,7 +42,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=shivam0277&theme=nightowl"/>
 </p>
 
-
+## Tweet
+Check out my latest tweet: [🐦 Tweet me](https://twitter.com/your_username/status/latest_tweet_id)
 
 
 
