@@ -11,14 +11,9 @@
   </a>
 </div>
 
-<table align="center">
-  <tr>
-    <td>
-      <h1>Hey there 👋</h1>
-    </td>
-  </tr>
-</table>
-
+<p align="center" style="font-size: 48px; font-weight: 900; background: linear-gradient(90deg, #ff7a18, #ffb347); color: white; padding: 16px 28px; border-radius: 14px; display: inline-block;">
+  👋 Hey there!
+</p>
 
 ## 👨‍💻 About Me
 - Working on **data science and analytics projects** using Python, SQL & data visualization  
