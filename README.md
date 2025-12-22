@@ -11,8 +11,8 @@
   </a>
 </div>
 
-<p align="center" style="font-size: 48px; font-weight: 900; background: linear-gradient(90deg, #ff7a18, #ffb347); color: white; padding: 16px 28px; border-radius: 14px; display: inline-block;">
-  👋 Hey there!
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B" />
 </p>
 
 ## 👨‍💻 About Me
