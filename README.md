@@ -21,12 +21,11 @@
 <p>Data science and analytics projects involving Python, SQL & visualization.</p>
 <p>Machine learning models and end-to-end AI applications.</p>
 
-<p>In my other time</p>
+### In my other time :
 <p>Solving DSA & SQL problems on LeetCode and GeeksforGeeks</p>
 <p>Exploring new tools in data analytics and cloud computing</p>
    
 ### Languages and Tools :
-</div>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" title="MySQL" width="40" height="40" />
