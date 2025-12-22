@@ -22,7 +22,8 @@
 
 <p>🖥️ In my other time</p>
 <p>- I solve problems on leetcode and GeeksforGeeks.</p>
-   Languages and Tools :
+   
+### Languages and Tools :
 </div>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" width="40" height="40" />
