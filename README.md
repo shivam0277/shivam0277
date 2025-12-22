@@ -17,7 +17,8 @@
 
 ## 👨‍💻 About Me
 - Working on **data science and analytics projects** using Python, SQL & data visualization  
-- Building **machine learning models** and end-to-end AI applications  
+- Building **machine learning models** and end-to-end AI applications
+- How to reach me shivam02774@gmail.com
 
 ## 🖥️ In My Other Time
 - Solving **DSA & SQL problems** on LeetCode and GeeksforGeeks  
