@@ -25,16 +25,16 @@
 
 ## 🛠️ Languages and Tools
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/python.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/numpy.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/pandas.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/matplotlib.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="40"/>
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40"/>
+  <img src="https://img.icons8.com/color/48/000000/python.png" width="52"/>
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" width="52"/>
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" width="52"/>
+  <img src="https://img.icons8.com/color/48/000000/numpy.png" width="52"/>
+  <img src="https://img.icons8.com/color/48/000000/pandas.png" width="52"/>
+  <img src="https://img.icons8.com/color/48/000000/matplotlib.png" width="52"/>
+  <img src="https://img.icons8.com/color/48/000000/tensorflow.png" width="52"/>
+  <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="52"/>
+  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="52"/>
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="52"/>
 </p>
 
 ## 📊 My Stats
