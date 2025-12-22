@@ -26,18 +26,11 @@
 ### Languages and Tools :
 </div>
 <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" width="40" height="40" />
-  <!-- <img src="https://img.icons8.com/color/48/000000/spring-logo.png" alt="Spring" title="Spring" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/hibernate.png" alt="Hibernate" title="Hibernate" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" title="HTML" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" title="CSS" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" title="JavaScript" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" title="React" width="40" height="40" /> -->
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" width="40" height="40" />
-  <!-- <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png" alt="Postman" title="Postman" width="40" height="40" />
-  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" title="Bootstrap" width="40" height="40" /> -->
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" title="Python" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MySQL" title="MongoDB" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" title="MongoDB" width="40" height="40" />
   <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="TensorFlow" title="TensorFlow" width="40" height="40" />
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" title="Java" width="40" height="40" />
 
 </p>
 
@@ -46,18 +39,3 @@
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=shivam0277&theme=nightowl" alt="GitHub Streak" /></a>
 </p> 
 
-
-<!--
-**shivam0277/shivam0277** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
- 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
