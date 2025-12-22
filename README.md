@@ -11,9 +11,14 @@
   </a>
 </div>
 
-<p align="center" style="font-size: 32px; font-weight: bold;">
-  Hey there 👋
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <h1>Hey there 👋</h1>
+    </td>
+  </tr>
+</table>
+
 
 ## 👨‍💻 About Me
 - Working on **data science and analytics projects** using Python, SQL & data visualization  
