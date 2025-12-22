@@ -36,6 +36,7 @@
   <img src="https://img.icons8.com/color/48/000000/power-bi.png" width="60"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" width="60"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="60"/>
+  <img src="https://img.icons8.com/color/48/000000/linux.png" width="60"/>
 </p>
 
 ## 📊 My Stats
