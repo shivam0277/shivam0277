@@ -2,6 +2,10 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450" />
 </div>
 
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivam0277E&style=flat-square&color=blue" alt="Profile Views"/>
+</div>
+
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
