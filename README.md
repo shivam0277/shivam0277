@@ -41,7 +41,7 @@
 
 ## 📊 My Stats
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=shivam0277&theme=nightowl" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivam0277&show_icons=true&theme=nightowl" />
 </p>
 
 
