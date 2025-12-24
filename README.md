@@ -43,7 +43,9 @@
 <p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=shivam0277&theme=nightowl" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0277&layout=compact&theme=nightowl" />
+</p>
 
 
 
