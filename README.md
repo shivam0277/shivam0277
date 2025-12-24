@@ -41,7 +41,7 @@
 
 ## 📊 My Stats
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shivam0277&theme=nightowl"/>
+  <img src="https://streak-stats.demolab.com?user=shivam0277&theme=nightowl" />
 </p>
 
 
