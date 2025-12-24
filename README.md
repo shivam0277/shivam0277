@@ -44,8 +44,9 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=shivam0277&theme=nightowl" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam0277&layout=compact&theme=nightowl" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivam0277&theme=nightowl" />
 </p>
+
 
 
 
