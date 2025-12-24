@@ -41,8 +41,9 @@
 
 ## 📊 My Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivam0277&show_icons=true&theme=nightowl" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=shivam0277&theme=nightowl" />
 </p>
+
 
 
 
