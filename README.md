@@ -2,10 +2,6 @@
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="450" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivam0277&style=flat-square&color=blue" alt=""/>
-</p>
-
 <div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,6 +10,9 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shivam0277&style=flat-square&color=blue" alt=""/>
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&center=true&vCenter=true&width=435&lines=Hey+there+%F0%9F%91%8B" />
