@@ -44,7 +44,16 @@
   <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=shivam0277&theme=nightowl" />
 </p>
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shivam0277&theme=nightowl" />
+</p>
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shivam0277&theme=nightowl" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Top%20Language-Java-blue?style=for-the-badge" />
+</p>
+<p align="center">
+  <img src="https://gh-langstats.vercel.app/api?username=shivam0277&theme=dark" />
 </p>
 
 
